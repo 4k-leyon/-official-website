@@ -1,0 +1,1 @@
+Place only original, approved 4K Leyon photographs in this directory. Do not use AI-generated replacements of the artist.
