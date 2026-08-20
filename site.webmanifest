@@ -1,0 +1,10 @@
+{
+  "name": "4K Leyon — Official Website",
+  "short_name": "4K Leyon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "description": "Official website of 4K Leyon — music, visuals, story, and booking.",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
